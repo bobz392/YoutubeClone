@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "485398234328",
+    "project_id": "flutter-youtube-zb392",
+    "storage_bucket": "flutter-youtube-zb392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485398234328:android:c6a1e7b4a92c7ea06283ad",
+        "android_client_info": {
+          "package_name": "com.zhouboflutter.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485398234328-glqauf1ho9grsb0qngur94lm4j38t9ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zhouboflutter.youtube",
+            "certificate_hash": "acc3a672ee1e798ddb4d22b72f389a3a6408e82b"
+          }
+        },
+        {
+          "client_id": "485398234328-pgriq72kde40c6je25i3evm2v7bsebb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJDqD6u6AOfCfKN898j9FJPDhl3VQArQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485398234328-pgriq72kde40c6je25i3evm2v7bsebb8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "485398234328-c1tfqll5cfgqunravu2n045qlaiunm8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zhoubo.flutter392"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

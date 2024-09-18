@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "flutter-youtube-zb392",
+          "appId": "1:485398234328:android:c6a1e7b4a92c7ea06283ad",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "flutter-youtube-zb392",
+          "appId": "1:485398234328:ios:93efad6a00c2d8586283ad",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "flutter-youtube-zb392",
+          "appId": "1:485398234328:ios:e6f1a669aa115f326283ad",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "flutter-youtube-zb392",
+          "configurations": {
+            "android": "1:485398234328:android:99b4c50bbbd982fc6283ad",
+            "ios": "1:485398234328:ios:e6f1a669aa115f326283ad",
+            "macos": "1:485398234328:ios:e6f1a669aa115f326283ad",
+            "web": "1:485398234328:web:0847815fb7ff2f326283ad",
+            "windows": "1:485398234328:web:8a6f6ae83500fee66283ad"
+          }
+        }
+      }
+    }
+  }
+}
